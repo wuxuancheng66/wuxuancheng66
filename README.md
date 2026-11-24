@@ -1,9 +1,10 @@
-# 吴宣澄
+# Wu Xuancheng
 
-学习数字公共治理，做班级协作和个人工具。
+I study digital public governance and build tools for classes and everyday use.
 
-- [班级共建平台](https://wuxuancheng66.github.io/ai-showcase/15-class-platform/)　看资料库、通知和成员协作。
-- [雅思学习站](https://wuxuancheng66.github.io/ai-showcase/03-ielts-hub/site/index.html)　在线学习与练习。
-- [iPhone Server](https://wuxuancheng66.github.io/ai-showcase/20-iphone-server/)　Swift 自动化原型及源码节选。
+- [Class Collaboration Platform](https://wuxuancheng66.github.io/ai-showcase/15-class-platform/) — A shared library, class announcements, a photo gallery, and anonymous feedback.
+- [IELTS Study Hub](https://wuxuancheng66.github.io/ai-showcase/03-ielts-hub/site/index.html) — Chinese-language study materials and browser-based speaking practice.
+- [iPhone Server](https://wuxuancheng66.github.io/ai-showcase/20-iphone-server/) — A Swift automation prototype. Includes a read-only device query module and tests.
+- [Desktop Pet Community](https://github.com/xunguangzlj-cloud/desktop-pet-community/blob/main/README.en.md) — A collaborative project maintained by Lykinzlj and built on OpenPets. I worked on Apple Silicon packaging and macOS testing.
 
-[作品页](https://wuxuancheng66.github.io/ai-showcase/)
+[Portfolio](https://wuxuancheng66.github.io/ai-showcase/)
